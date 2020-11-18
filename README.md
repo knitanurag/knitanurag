@@ -10,7 +10,7 @@
  
  💬 Ask me about Java
  
- 📫 How to reach me: anurag.chaturvediknit@gmail.com
+ 📫 How to reach me: anuragchaturvediknit@gmail.com
 <!--
 **knitanurag/knitanurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
