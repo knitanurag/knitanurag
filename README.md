@@ -1,5 +1,7 @@
 ### Hi there 👋
+
  🔭 I’m currently working on Java Projects
+ 
  🌱 I’m currently learning Data Science
  👯 I’m looking to collaborate on Machine Learning
  🤔 I’m looking for help with Machine Learning real time use cases
